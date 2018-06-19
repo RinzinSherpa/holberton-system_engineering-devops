@@ -1,2 +1,2 @@
 #!/bin/bash
-$((<base2>#$VARIABLENAME))
+$((<base>#$BINARY))
