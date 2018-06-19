@@ -1,2 +1,2 @@
 #!/bin/bash
-$((<base>#$BINARY))
+$((<base10>#$BINARY))
